@@ -1,3 +1,14 @@
-# My Awesome Book
+# robotframework 用户手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Copyright © 2008-2015 Nokia Networks
+
+Copyright © 2016- Robot Framework Foundation
+
+Licensed under the
+
+[Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0)
+
+license
+
+
+
