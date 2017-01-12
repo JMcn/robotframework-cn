@@ -7,8 +7,8 @@
 	* [示例](GettingStarted/Demonstration.md)
 
 * 创建测试文件
-	* [测试文件语法](CreatingTestData/TestDataSyntax)
-	* [创建测试用例](CreatingTestData/CreatingTestCases..md)
+	* [测试文件语法](CreatingTestData/TestDataSyntax.md)
+	* [创建测试用例](CreatingTestData/CreatingTestCases.md)
 	* [创建测试套件](CreatingTestData/CreatingTestSuites.md)
 	* [使用测试库](CreatingTestData/UsingTestLibraries.md)
 	* [变量](CreatingTestData/Variables.md)
