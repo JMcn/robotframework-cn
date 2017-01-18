@@ -1,4 +1,4 @@
-# robotframework 中文用户手册
+# robotframework 3.0 中文用户手册
 
 Copyright © 2008-2015 Nokia Networks
 
