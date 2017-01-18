@@ -15,5 +15,5 @@ Robot Framework是在 [Apache License 2.0](http://apache.org/licenses/LICENSE-2.
 
 ## 1.1.1 为何选择 Robot Framework?
 
-- 使用容易使用的表格语法,用统一格式[创建测试用例](../CreatingTestData/CreatingTestCases.md#creating-test-cases)。
+- 使用容易使用的表格语法,用统一格式[创建测试用例](../CreatingTestData/CreatingTestCases.md#22-创建测试用例)。
 - 提供重复利用已经存在的关键字来创建[高层次关键字](../CreatingTestData/CreatingUserKeywords.md#26-创建用户关键字)的能力。
