@@ -17,3 +17,22 @@ Robot Framework是在 [Apache License 2.0](http://apache.org/licenses/LICENSE-2.
 
 - 使用容易使用的表格语法,用统一格式[创建测试用例](../CreatingTestData/CreatingTestCases.md#22-创建测试用例)。
 - 提供重复利用已经存在的关键字来创建[高层次关键字](../CreatingTestData/CreatingUserKeywords.md#26-创建用户关键字)的能力。
+- 提供易于阅读结果,采用 HTML 格式的[报告]()和[日志]()。
+- 平台与被测系统应用程序相互独立。
+- 提供用于创建自定义测试库的简单[库API](),它可以使用Python或Java本地实现。
+- 提供[命令行界面]()和基于XML的[输出文件](),用于集成到现有构建基础架构(持续集成系统)中。
+- 提供对 Selenium 的 Web 测试,Java GUI 测试,运行的支持进程,Telnet,SSH等的支持。
+- 支持创建[数据驱动测试用例]()。
+- Built-in 支持不同环境下的特殊[变量](../CreatingTestData/Variables.md#25-变量)。
+- 提供[标记]()以对要执行的测试用例进行分类和[选择]()。
+- 实现与源代码控制的轻松集成:[测试集]()是可以使用生产代码进行版本化的文件和目录。
+- 提供[测试用例]()和[测试集]()级别的 setup 和 teardown。
+- 模块化的结构甚至支持为有多种接口的应用程序创建测试数据。
+
+## 1.1.2 高层次的架构
+
+Robot Framework 是一个通用的，应用和技术相互独立的框架。它有一个高度模块化的架构图如下。
+
+![Robot Framework 架构图](architecture.png)
+
+Robot Framework 架构图
