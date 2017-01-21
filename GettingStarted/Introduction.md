@@ -50,3 +50,25 @@ Robot Framework 架构图
 ![报告和日志](screenshots.png)
 
 报告和日志
+
+## 1.1.4 获取更多信息
+
+### 项目页面
+
+查找有关 Robot Framework 的更多信息和它周围的丰富的生态系统,首要的地方是 http://robotframework.org。 Robot Framework 本身托管在 [GitHub](https://github.com/robotframework/robotframework) 上。
+
+### 邮件列表
+
+这里有几个 Robot Framework 邮件列表可以提问和搜索更多信息。 邮件列表档案对每个人（包括搜索引擎）都是开放的,每个人都可以自由加入这些列表。 只有列表成员可以发送电子邮件,为了防止垃圾邮件,新用户需要被审核， 这意味着它在你的第一条消息通过之前可能需要一个很少的时间。 不要害怕发送问题到邮件列表，但要记住[提问的技巧](http://www.catb.org/~esr/faqs/smart-questions.html)。
+
+[robotframework-users](http://groups.google.com/group/robotframework-users)
+
+* 通常讨论关于 Robot Framework 相关的问题。疑问和难题都可以发送到这个邮件列表。所有用户将分享这些信息。
+
+[robotframework-announce](http://groups.google.com/group/robotframework-announce)
+
+* 一个只读公告邮件列表仅有管理员能够发送消息。所有公告被发送到 Robot Framework 的用户邮件列表当中, 所以没必要同时加入两个列表中。
+
+[robotframework-devel](http://groups.google.com/group/robotframework-devel)
+
+* 讨论关于 Robot Framework 的开发。
