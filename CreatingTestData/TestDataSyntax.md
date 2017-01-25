@@ -20,3 +20,10 @@
 
 ## 2.1.2 支持的文件格式
 
+Robot Framework 的测试数据可以定义为表格形式,无论是使用超文本标记语言(HTML),制表符分隔值(TSV),纯文本,或 reStructuredText 格式。 这些格式的细节，以及它们的主要优点和问题将在后续章节解释。使用哪种格式取决于上下文， 但如果没有特殊需要，建议使用纯文本格式。
+
+Robot Framework 基于文件扩展名选择用于测试数据的解析器。扩展名不区分大小写，并且识别的扩展名为 .html, .htm, .xhtml 用于HTML, .tsv, .txt, 和 特殊的 .robot 用于纯文本, .rst, .rest 用于 reStructuredText。
+
+不同的[测试数据模板](../Appendices/Templates.md)可用 HTML 和 TSV 格式，以便更容易开始编写测试。
+
+> 从Robot Framework 2.7.6开始支持纯文本文件的特殊 .robot 扩展。
